@@ -1,0 +1,22 @@
+openvino==2023.0.0.dev20230119
+alibabacloud_alimt20181012==1.1.0
+alibabacloud_tea_openapi==0.3.7
+faiss_cpu==1.7.3
+fastapi== 0.95.1
+numpy==1.24.2
+pandas==2.0.0
+pymysql==1.0.3
+PyYAML==6.0
+PyYAML==6.0
+Requests==2.30.0
+scikit_learn==1.2.2
+SQLAlchemy==1.4.47
+torch==2.0.0
+tqdm==4.65.0
+transformers==4.28.1
+uvicorn==0.22.0
+nacos-sdk-python==0.1.12
+sentence_transformers==2.2.2
+onnx==1.13.1
+openai==0.27.8
+pymilvus==2.2.9
